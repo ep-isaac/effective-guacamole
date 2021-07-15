@@ -1,0 +1,2 @@
+# effective-guacamole
+GraphQL sandbox
